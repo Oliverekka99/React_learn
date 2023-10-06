@@ -1,0 +1,1 @@
+In react also, a Tree graph always gets created
